@@ -263,6 +263,12 @@ See `sql/03_analysis_queries.sql` for all 15 queries (basic, intermediate, and a
 ---
 
 ## Author
+**Aman Upadhyay**  
+Data Analyst | Skills: Python | SQL | Power BI | Excel | DAX | Data Visualization  
+📧 amanupa786@gmail.com  
+🔗 [GitHub](https://github.com/amanupa786)
+
+> This project is part of a data analytics portfolio demonstrating end-to-end ETL pipeline development, data cleaning, business intelligence reporting, and SQL analytical query authoring.
 
 **Data Analyst**  
 Skills: Python | SQL | Power BI | Excel | DAX | Data Visualization
