@@ -269,5 +269,3 @@ Data Analyst | Skills: Python | SQL | Power BI | Excel | DAX | Data Visualizatio
 🔗 [GitHub](https://github.com/amanupa786)
 
 > This project is part of a data analytics portfolio demonstrating end-to-end ETL pipeline development, data cleaning, business intelligence reporting, and SQL analytical query authoring.
-
-> This project is part of a data analytics portfolio demonstrating end-to-end ETL pipeline development, data cleaning, business intelligence reporting, and SQL analytical query authoring.
