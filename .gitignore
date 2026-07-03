@@ -1,0 +1,38 @@
+# ============================================================
+# .gitignore — Files NOT to upload to GitHub
+# ============================================================
+
+# Python cache files (auto-generated, not needed)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment folder (if you create one)
+venv/
+env/
+.venv/
+
+# Jupyter notebook checkpoints (auto-generated)
+.ipynb_checkpoints/
+
+# Raw data and processed CSV — large, can be re-created by running the pipeline
+data/raw/
+data/processed/
+
+# Keep folder structure visible on GitHub
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# OUTPUT FILES — included in repo so GitHub README renders charts correctly
+# and viewers can download the Excel reports directly
+# outputs/charts/*.png  ← NOT excluded (needed for README images)
+# outputs/*.xlsx        ← NOT excluded (small files, useful for viewers)
+
+# OS files (Windows/Mac junk files)
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# NOTE: config.py IS included but password is already a placeholder.
+# Make sure config.py only has "your_password" — never a real password.
